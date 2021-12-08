@@ -1,0 +1,5 @@
+---
+title: "Pagina do Bruce"
+site: distill::distill_website
+listing: posts
+---
