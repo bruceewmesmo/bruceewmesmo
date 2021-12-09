@@ -1,9 +1,27 @@
 ---
-title: "About this blog"
+title: "Quem sou eu"
 description: |
-  Some additional details about the blog
+  Quem sou eu e minha trajetória
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Quem eu sou
+
+Muito prazer! Me chamo Bruce Martins. Tenho 28 anos e moro na cidade de São Paulo.
+
+Sou uma pessoa curiosa e que gosta de aprender de tudo. Desde como o cérebro funciona até porque céu é azul.Sempre fui assim, e talvez por isso, minha vontade de fazer ciência sempre existiu.
+
+Hoje eu sou Psicólogo, Neurocientista, e Jardineiro. Mas também sou um tiquinho _(mineirês para pouco)_ programador, botânico, cientista de dados e por ai vai. 
+
+
+## Minha breve trajetória
+
+Sou bacharel em **Psicologia** com ênfase clínica pela **Universidade Cruzeiro do Sul**. Ainda durante a graduação fui monitor das disciplinas de Análise do Comportamento e Neurofisiologia, Fiz iniciação científica voluntária sobre escolha de abordagem clínica em alunos de psicologia. E também trabalhei durante quase 4 anos no Laboratório de Psicologia Experimental (LAPEX) da Cruzeiro como técnico, onde aprendi muito sobre Análise Experimental do Comportamento com humanos e ratos, e Análise Aplicada do Comportamento.
+
+Posteriormente, fiz meu **Mestrado** em *Neurociência e Cognição* pela **Universidade Federal do ABC** onde estudei Dislexia do Desenvolvimento em tarefas de leitura utilizando Ressonância Magnética Funcional _(fMRI)_, rastreio ocular _(Eyetracking)_ e testes neuropsicológicos.
+
+Atualmente sou **Doutorando** em **Radiologia** pelo **Instituto de Radiologia do Hospital das Clínicas da FMUSP** onde continuo meus estudos com Dislexia do Desenvolvimento, só que agora focando na parte estrutural do cérebro ainda utilizando Ressonância Magnética _(MRI)_. Faço parte da equipe do Laboratório de Investigação Médica em Neurorradiologia (LIM44).
+
